@@ -13,7 +13,7 @@ public class  Hello1{
 			System.out.println("Hello world Mirafra branch2 commit :"+i);
 >>>>>>> e304156... commit from branch2
 =======
-			System.out.println("Hello world Mirafra branch2 commit :"+i);
+			System.out.println("Hello world Mirafra branch3 commit :"+i);
 >>>>>>> e304156... commit from branch2
 			
 		}
